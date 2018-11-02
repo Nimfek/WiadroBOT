@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
         let reason = args.join(" ").slice(22);
         
         let reportEmbed = new Discord.RichEmbed()
-        .setDescription("UPRZEJxMIE DONOSZE")
+        .setDescription("UPRZEJMIE DONOSZE")
         .setColor("#0008ff")
         .setThumbnail("https://6.allegroimg.com/s512/03e461/25616425456289475d255532c816")
         .addField("Zgłoszony wariacik", `${rUser} o ID: ${rUser.id}`)
