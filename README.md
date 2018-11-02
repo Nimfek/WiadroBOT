@@ -1,0 +1,2 @@
+# WiadroBOT
+Private discord bot
